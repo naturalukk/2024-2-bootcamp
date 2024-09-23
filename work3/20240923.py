@@ -24,3 +24,6 @@ s.add(3)
 print(s)'''
 a = {1, 2, 3}
 print(type(a))
+
+for i in range(5):
+    print(i)

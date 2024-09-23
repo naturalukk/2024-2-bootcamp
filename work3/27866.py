@@ -1,4 +1,3 @@
-a=[]
 a=input()
 b=input()
 b=int(b)
