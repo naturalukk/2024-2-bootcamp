@@ -1,5 +1,17 @@
 # 입력 여러줄을 어떻게 하는건지 모르겠어요 ㅠㅠ
 
+while True:
+    # person persona => "person persona"
+    input_string = input()
+
+    if input_string == '':
+        break
+
+    # s = "person", t = "persona"
+    s, t = input_string.split()
+
+
+        
 
 s,t = input().split()
 
